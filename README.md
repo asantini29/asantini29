@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Alessandro, and I am a second-year PhD student at the Max Planck Institute for Gravitational Physics (Potsdam, Germany).
+- 🔭 I’m currently working on Data Analysis methods and algorithms for the upcoming LISA mission
+- 📫 How to reach me: alessandro.santini@aei.mpg.de
+- 😄 Pronouns: He/him
 <!--
 **asantini29/asantini29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
