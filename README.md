@@ -14,6 +14,7 @@ My name is Alessandro, and I am a third-year PhD student at the Max Planck Insti
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=google&logoColor=white)
+![CuPy](https://img.shields.io/badge/CuPy-46C02B?style=for-the-badge&logo=nvidia&logoColor=white)
 ![MCMC](https://img.shields.io/badge/MCMC-FF6F00?style=for-the-badge&logo=scipy&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
